@@ -27,8 +27,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/ethereumproject/go-ethereum/common"
+	"github.com/ethereumproject/go-ethereum/crypto"
 )
 
 func init() {
